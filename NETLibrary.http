@@ -1,0 +1,6 @@
+@NETLibrary_HostAddress = http://localhost:5285
+
+GET {{NETLibrary_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
